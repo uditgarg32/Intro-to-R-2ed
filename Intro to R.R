@@ -1,5 +1,5 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accompanny Intro to R
+# Copy for Udit Garg BIS Class at Lehigh
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
